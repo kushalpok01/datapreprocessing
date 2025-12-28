@@ -1,11 +1,11 @@
-# 📦 Data Preprocessing for Nepali Subtitles
+#  Data Preprocessing for Nepali Subtitles
 
 This repository contains preprocessing scripts for **Nepali subtitle datasets** used in training machine learning / deep learning models on video clips.  
 The goal is to **clean, normalize, and standardize subtitle text** before feeding it into training pipelines.
 
 ---
 
-## 📝 Overview
+##  Overview
 
 The dataset consists of **subtitle files (SRT)** extracted from video clips.  
 Since raw subtitles often contain noise and inconsistencies, this repository performs essential preprocessing steps such as:
@@ -17,7 +17,7 @@ Since raw subtitles often contain noise and inconsistencies, this repository per
 
 ---
 
-## 🔧 Preprocessing Features
+##  Preprocessing Features
 
 ### Text Cleaning
 - Removes extra spaces, punctuation, and unwanted symbols
